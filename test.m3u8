@@ -1,0 +1,9 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-TARGETDURATION:13
+#EXT-X-KEY:METHOD=AES-128,URI="https://raw.githubusercontent.com/SUNXINMIAN/VideoPlayer/main/enc.key"
+#EXTINF:12.320000,
+https://resourcese.pku.edu.cn/play/0/harpocrates/2025/09/11/segment_0.ts
+#EXT-X-ENDLIST
